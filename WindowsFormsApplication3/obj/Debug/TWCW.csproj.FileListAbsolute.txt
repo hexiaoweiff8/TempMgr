@@ -1,0 +1,10 @@
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Debug\TWCW.csprojResolveAssemblyReference.cache
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.TmpManager.resources
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Set.resources
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Debug\TWCW.csproj.GenerateResource.Cache
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Set.resources
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\温度显示与电机控制.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+c:\users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb

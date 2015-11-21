@@ -1,0 +1,12 @@
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe.config
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.exe
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.pdb
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.exe
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Release\WindowsFormsApplication3.pdb
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.TmpManager.resources
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Set.resources
+C:\Users\dell\documents\visual studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\TWCW.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\TWCW.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\Release\WindowsFormsApplication3.Curve.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\Release\System.Data.SQLite.dll

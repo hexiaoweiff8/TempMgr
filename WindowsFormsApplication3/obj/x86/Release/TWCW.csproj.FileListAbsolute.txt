@@ -1,0 +1,1 @@
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\x86\Release\WindowsFormsApplication3.exe.config

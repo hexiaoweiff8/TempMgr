@@ -1,0 +1,13 @@
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\x86\Debug\WindowsFormsApplication3.exe.config
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\x86\Debug\System.Data.SQLite.dll
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\x86\Debug\TWCW.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Curve.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.TmpManager.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Set.resources
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\x86\Debug\TWCW.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.exe
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.pdb
+C:\Users\dell\Documents\Visual Studio 2012\Projects\温度显示与电机控制\WindowsFormsApplication3\bin\x86\Debug\ZedGraph.dll
